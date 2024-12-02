@@ -1,0 +1,247 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+
+
+/**Navbar start**/
+.navbar{
+    background-color: #8e8666;
+}
+
+.navbar-nav{
+   margin-left: 45%;
+}
+/**Navbar end**/
+
+
+/**Hero1 start**/
+.herohead{
+    font-size: 80px;
+    
+}
+
+.hero1img{
+    border-radius: 0px 50px;
+   
+    padding: 0%!important;
+    
+    border: 10px solid #8e8666;
+}
+
+/**Hero1 end**/
+
+
+/**Hero1brand start**/
+.hero1brand{
+    background-color: #8e8666 ;
+    margin-top: 30px;
+   
+}
+
+.herobrandP{
+    font-weight: 500;
+    color: rgba(0,0,0,1);
+    line-height: 1.6;
+}
+.fs-4 {
+    font-size: calc(1.275rem + .3vw) !important;
+}
+
+/**Hero1brand end**/
+
+/**Hero1form start**/
+
+.hero1form{
+    margin-left: 30%;
+    margin-right:30%;
+} 
+
+
+
+.me-2{
+    flex: 1;
+    
+}
+
+
+.flex3{
+    flex: 3;
+    
+}
+/**Hero1form end**/
+
+/**Discover Fairmont start**/
+.Discoverfairmont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 500;
+}
+
+.Discoverfairmontpara{
+    line-height: 1.6;
+    
+}
+
+/**Discover Fairmont end**/
+
+
+/**Location fairmont start**/
+.location{
+    background-color: #8e8666;
+    display: flex;
+    justify-content: center;
+}
+.mapimg{
+    width: 100%;
+    border-radius: 40px;
+}
+
+.locationpara{
+border: black;
+border-radius: 2px;
+}
+
+
+/**Location fairmont end**/
+
+/**Location form start**/
+.locationform{
+    background-color: #8e8666;
+  
+}
+
+.locationformfields{
+    margin-top: 20px;
+    padding: 20px!important;
+}
+
+input::placeholder{
+    font-weight: bolder;
+    color: black!important;
+}
+
+
+
+
+/**Location form end**/
+
+/**Locationinfo  start**/
+.locationinfoimg{
+    height: 600px;
+    object-fit: cover;
+    
+}
+.locationinformation{
+    background-color: #8e8666;
+    display: flex;
+    justify-content: center;
+}
+
+.locationinfohead{
+    font-size: 60px!important;
+    
+}
+
+.locationinfopara{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    
+}
+
+/**Locationinfo  end**/
+/**Amenities Hotel style  start**/
+.hotelstylehead{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 60px!important;
+}
+
+.hotelhead{
+    font-size: 60px;
+}
+
+.hotelstylepara{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.hotelstylelist{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/**Amenities Hotel style  end**/
+/**SOL  start**/
+.solbg{
+    background-color: black;
+}
+.solpara{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color: gold;
+}
+.solhead{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: 90px;
+}
+/**SOL  end**/
+
+/**Faqs  start**/
+.faqhead{
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.faqsH{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-weight: bolder;
+}
+
+/**Faqs  end**/
+
+/**footer  start**/
+.footer{
+    background-color: #8e8666;
+    display: flex;
+    justify-content: center;
+}
+
+.endline{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-weight: 500;
+}
+
+/**footer  end**/
+
+/**broucher  start**/
+
+.bg-img{
+    height: 85vh;
+    filter: brightness(80%);
+    
+}
+
+.Herobroucher{
+    margin-top: 15%;
+   
+    font-weight: bold!important;
+    border-radius: 30px;
+    background-color: rgba(0,0,0,0.41);
+}
+
+
+.deatilbroucherfont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 500!important;
+}
+
+/**broucher  end**/
